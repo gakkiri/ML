@@ -1,5 +1,6 @@
 # ML
-Record the assignments for this course: https://www.coursera.org/learn/machine-learning/
+Record the assignments for this course: https://www.coursera.org/learn/machine-learning/  
+The job format is _.ipynb_
 
 ex1: Linear regression  
 ex2: Logistic regression  
