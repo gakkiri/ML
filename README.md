@@ -8,4 +8,5 @@ ex3: Logistic regression with One-vs-all Classification and Neural Networks(forw
 ex4: Neural Networks(complete, GD)  
 ex5: Bias and variance  
 ex6: SVM  
-ex7: K-means and PCA
+ex7: K-means and PCA  
+ex8: Anomaly Detection and Recommendations
